@@ -1,3 +1,4 @@
+#script pour demander un nombre aléatoire
 import random
 
 def jouer():
