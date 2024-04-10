@@ -1,4 +1,5 @@
-#script pour demander un nombre aléatoire
+# script pour demander un nombre aléatoire
+# Il me permet également d'apprendre à me servir de GIT :)
 import random
 
 def jouer():
